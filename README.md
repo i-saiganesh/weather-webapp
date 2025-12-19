@@ -1,4 +1,4 @@
-# ⛅ Weather Web App.
+# ⛅ Weather Web App
 
 A simple and fast **Weather Forecast** app built using **HTML, CSS & JavaScript**.  
 Search any city and instantly view live weather details using the OpenWeather API.
